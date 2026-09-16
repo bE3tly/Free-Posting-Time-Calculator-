@@ -1,0 +1,7 @@
+{
+  "name": "Best Time to Post",
+  "description": "A free posting-time calculator for content creators to find their optimal weekly posting window based on audience behavior patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
